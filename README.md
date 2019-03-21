@@ -11,3 +11,5 @@ You can edit the values of name, age,...and thal.
 
 The output is displayed for example as follows:
 {"Ashutosh":"Yes"}
+
+**The classifier is at accuracy of 70%.**
